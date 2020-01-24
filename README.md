@@ -4,10 +4,11 @@
 # Functions
 > 주요기능
 > - Restful 이용하여 영화 목록을 json으로 얻어와 파싱하였습니다.
-> - client id, client secret 이존재하기 때문에 DI를 사용하였습니다.
+> - client id, client secret 이 존재하기 때문에 DI를 사용하였습니다.
 > - 특수문자입력이 확인되면 검색이 불가하도록 하였습니다.
 
-
+# server
+> http://222.99.214.151:8090/movie/index.jsp
 # source
 
 ## controller
