@@ -8,13 +8,11 @@
 > - 특수문자입력이 확인되면 검색이 불가하도록 하였습니다.
 
 # server
-> http://222.99.214.151:8090/movie/index.jsp
+> http://222.99.214.151:8090/Movie/index.jsp
 # source
 
 ## controller
 ```
-package com.movie.client.controller;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
