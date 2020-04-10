@@ -8,7 +8,7 @@
 > - 특수문자입력이 확인되면 검색이 불가하도록 하였습니다.
 
 # server
-> http://112.148.190.213:8090/Movie/index.jsp
+> http://112.148.190.213:8090/lookup/index.jsp
 # source
 
 ## controller
